@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+ 
+    body {
+        background-image: url('<c:url value="/images/background1.jpg"/>');
+        background-size: cover;
+        background-position: center;
+    }
+ 

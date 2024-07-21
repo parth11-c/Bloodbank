@@ -1,0 +1,6 @@
+@charset "UTF-8";
+body {
+    background-image: url('<c:url value="/images/background1.jpg"/>');
+    background-size: cover;
+    box-shadow: 1px 1px 150px 86px rgba(195, 246, 255, 0.699) inset;
+}
